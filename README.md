@@ -1,4 +1,4 @@
-# September13
+# WIP for DevOps Assignment
 This is a test project to explore Github
 
 Please be reminded to:
