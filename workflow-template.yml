@@ -1,13 +1,13 @@
-name: Octo Organization CI
+name: Github Actions Example
 
 on:
   push:
-    branches: [ $default-branch ]
   pull_request:
     branches: [ $default-branch ]
 
 jobs:
   build:
+    name: Running Units Tests
     runs-on: ubuntu-latest
 
     steps:
