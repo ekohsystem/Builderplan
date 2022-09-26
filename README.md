@@ -3,3 +3,7 @@ This is a test project to explore Github
 
 Please be reminded to:
 * Please drink more water and ask questions.
+
+
+Workflow 
+* Merged code -> Test -> Build -> Deployment
