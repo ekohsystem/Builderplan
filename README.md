@@ -2,6 +2,9 @@
 
 This is a test project to explore GitHub Action
 
+# Goal :
+Builds a Docker image and pushes it to the private registry
+
 # Workflow:
 
 ![image](https://user-images.githubusercontent.com/93052750/192405807-cc8e12fc-2984-432c-87b6-df33440cbae2.png)
