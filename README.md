@@ -16,7 +16,7 @@ This is a test project to explore GitHub Action
 
     docker tag java-app demo-app:java-1.0
     
-Credit: TechWorld with Nana
+##### Credit: TechWorld with Nana
 
 ------------------------------------------------------------------------------------------------------------------------
 Notes: 
