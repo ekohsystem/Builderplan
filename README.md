@@ -1,5 +1,6 @@
-# WIP for DevOps Assignment
-This is a test project to explore Github
+#  DevOps Assignment - Docker Build & Push Action
+
+This is a test project to explore GitHub Action
 
 ##### build the project
 
@@ -14,7 +15,7 @@ This is a test project to explore Github
     docker tag java-app demo-app:java-1.0
     
 
-
+------------------------------------------------------------------------------------------------------------------------
 
 Workflow Overview
 * Merged code -> Test -> Build -> Deployment
