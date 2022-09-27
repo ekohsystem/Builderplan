@@ -3,7 +3,7 @@
 This is a test project to explore GitHub Action
 
 # Goal :
-Builds a Docker image and pushes it to the private registry
+Builds a Docker image and pushes it to the private registry (i.e. Docker Hub)
 
 # Workflow:
 
