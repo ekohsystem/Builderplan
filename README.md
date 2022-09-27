@@ -3,7 +3,9 @@
 This is a test project to explore GitHub Action
 
 # Goal :
-Builds a Docker image and pushes it to the private registry (i.e. Docker Hub)
+Builds a Docker image and pushes it to the Cloud-hosted Docker registry (i.e. Docker Hub)
+
+A Docker registry is a service that manages container image repositories. It allows us to do things like create repositories, push and pull images, and manage repository access. When a registry is provided via the cloud, we don't have to worry about its hosting and maintenance.
 
 # Workflow:
 
