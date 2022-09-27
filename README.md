@@ -29,9 +29,9 @@ How Github Actions automate these workflows?
 E.g. CI/CD with Github Actions
 * Commit code -> Test - > Build -> Push -> Deploy
 * Advantages : 
-* 1) Use same tool instead of 3rd party integration
-* 2) setup the pipeline is easy
-* 3) tool for developer
-* 4) it integrates with other technologies 
-* 5) Gives us the environment we specify and simply connect to target and deploy
+ 1) Use same tool instead of 3rd party integration
+ 2) setup the pipeline is easy
+ 3) tool for developer
+ 4) it integrates with other technologies 
+ 5) Gives us the environment we specify and simply connect to target and deploy
 
