@@ -1,4 +1,4 @@
-#  DevOps Assignment - Docker Build & Push Action
+#  DevOps Project - Docker Build & Push Action
 
 This is a test project to explore GitHub Action
 
