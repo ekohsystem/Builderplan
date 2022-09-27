@@ -2,6 +2,8 @@
 
 This is a test project to explore GitHub Action
 
+![image](https://user-images.githubusercontent.com/93052750/192405807-cc8e12fc-2984-432c-87b6-df33440cbae2.png)
+
 ##### build the project
 
     ./gradlew build
@@ -14,8 +16,7 @@ This is a test project to explore GitHub Action
 
     docker tag java-app demo-app:java-1.0
     
-
-![image](https://user-images.githubusercontent.com/93052750/192405807-cc8e12fc-2984-432c-87b6-df33440cbae2.png)
+Credit: TechWorld with Nana
 
 ------------------------------------------------------------------------------------------------------------------------
 Notes: 
