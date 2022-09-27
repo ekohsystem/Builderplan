@@ -25,6 +25,7 @@ A Docker registry is a service that manages container image repositories. It all
     
     
 # Result:
+![image](https://user-images.githubusercontent.com/93052750/192410456-6acbe8cb-90cc-435b-8b65-2fe4b475c70a.png)
 
 ![image](https://user-images.githubusercontent.com/93052750/192406115-c78ba691-c3fd-4718-8489-4b6526ebb58d.png)
 
