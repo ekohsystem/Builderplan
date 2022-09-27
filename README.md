@@ -1,8 +1,19 @@
 # WIP for DevOps Assignment
 This is a test project to explore Github
 
-Please be reminded to:
-* Please drink more water and ask questions.
+##### build the project
+
+    ./gradlew build
+
+##### build Docker image called java-app. Execute from root
+
+    docker build -t java-app .
+    
+##### push image to repo 
+
+    docker tag java-app demo-app:java-1.0
+    
+
 
 
 Workflow Overview
@@ -15,9 +26,9 @@ How Github Actions automate these workflows?
 
 E.g. CI/CD with Github Actions
 * Commit code -> Test - > Build -> Push -> Deploy
-* Advantages : Use same tool instead of 3rd party integration
-*              setup the pipeline is easy
-*              tool for developer
-*              it integrates with other technologies 
-*              Give us the environment we specify and simply connect to target and deploy
+* Advantages : 1) Use same tool instead of 3rd party integration
+*              2) setup the pipeline is easy
+*              3) tool for developer
+*              4) it integrates with other technologies 
+*              5) Gives us the environment we specify and simply connect to target and deploy
 
