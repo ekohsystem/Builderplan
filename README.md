@@ -2,6 +2,8 @@
 
 This is a test project to explore GitHub Action
 
+Workflow:
+
 ![image](https://user-images.githubusercontent.com/93052750/192405807-cc8e12fc-2984-432c-87b6-df33440cbae2.png)
 
 ##### build the project
@@ -15,6 +17,12 @@ This is a test project to explore GitHub Action
 ##### push image to repo 
 
     docker tag java-app demo-app:java-1.0
+    
+    
+Result:
+
+![image](https://user-images.githubusercontent.com/93052750/192406115-c78ba691-c3fd-4718-8489-4b6526ebb58d.png)
+
     
 ##### Credit: TechWorld with Nana
 
