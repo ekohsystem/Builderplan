@@ -1,6 +1,6 @@
-#  DevOps Project - Docker Build & Push Action
+#  DevOps Project - Publishing images to Docker Hub
 
-This is a test project to explore GitHub Action
+This is a test project to explore GitHub Action - Build & Push Action
 
 # Goal :
 Builds a Docker image and pushes it to the Cloud-hosted Docker registry (i.e. Docker Hub)
