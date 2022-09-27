@@ -31,9 +31,11 @@ A Docker registry is a service that manages container image repositories. It all
 # What can I try next?
     1) Push it to more Docker registries?
     2) How to pull image from dockerhub?
+    3) Sends a Whatsapp message when code is pushed to a repository?
+    https://github.com/marketplace/actions/push-notification-on-whatsapp
 
     
-##### Credit: TechWorld with Nana
+##### Credit: TechWorld with Nana and Github Marketplace
 
 ------------------------------------------------------------------------------------------------------------------------
 Notes: 
