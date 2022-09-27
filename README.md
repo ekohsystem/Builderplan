@@ -29,8 +29,8 @@ A Docker registry is a service that manages container image repositories. It all
 ![image](https://user-images.githubusercontent.com/93052750/192406115-c78ba691-c3fd-4718-8489-4b6526ebb58d.png)
 
 # Next workplan:
-Push it to more Docker registries?
-How to pull image from dockerhub?
+    1)Push it to more Docker registries?
+    2) How to pull image from dockerhub?
 
     
 ##### Credit: TechWorld with Nana
